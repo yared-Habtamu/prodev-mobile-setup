@@ -8,7 +8,8 @@ import {
   TouchableOpacity,
 } from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
-
+//["<Text style={styles.textLarge}>Find your favorite place here</Text>", "<Text style={styles.textSmall}>The best prices for over 2 </Text>"]
+//  ["@/assets/images/background-image.png"]
 export default function Index() {
   return (
     <SafeAreaProvider>
